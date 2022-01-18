@@ -10,9 +10,4 @@ Van a ver y conocer el potencial de Git y Github para trabajos colaborativos:
 
 Este es un ejemplo de readme, como practica de **El curso de Platzi**. El link del [**repositorio es**](https://github.com/daquintero10/NewtonBlog)
 
-
-
-
-
-
-
+- Creado por David Quintero
