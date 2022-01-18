@@ -12,3 +12,4 @@ Este es un ejemplo de readme, como practica de **El curso de Platzi**. El link d
 
 - Creado por David Quintero
 - Incluye el uso de Windows, Linux y Mac
+- Disponible para todas las edades
